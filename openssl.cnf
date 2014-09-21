@@ -1,6 +1,4 @@
 [req]
-default_days	= 30	# how long to certify for
-default_crl_days= 30	# how long before next CRL
 default_md	= sha256	# which (m)essage (d)igest to use.
 preserve	= yes	# keep passed (D)istinguished (N)ames ordering
 prompt = no	# don't prompt at the command line
